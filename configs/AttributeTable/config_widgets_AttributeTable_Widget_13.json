@@ -1,0 +1,1232 @@
+{
+  "layerInfos": [
+    {
+      "name": "Ibukota Provinsi",
+      "id": "d97621e16e2d4bb5bd6bfe5d140063e3",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/0",
+        "fields": [
+          {
+            "show": true,
+            "name": "FID",
+            "alias": "FID"
+          },
+          {
+            "show": true,
+            "name": "FID_1",
+            "alias": "FID_1"
+          },
+          {
+            "show": true,
+            "name": "FCODE",
+            "alias": "FCODE"
+          },
+          {
+            "show": true,
+            "name": "NAMOBJ",
+            "alias": "NAMOBJ"
+          },
+          {
+            "show": true,
+            "name": "ALIAS",
+            "alias": "ALIAS"
+          },
+          {
+            "show": true,
+            "name": "LOKTPN",
+            "alias": "LOKTPN"
+          },
+          {
+            "show": true,
+            "name": "REMARK",
+            "alias": "REMARK"
+          },
+          {
+            "show": true,
+            "name": "KLSTPN",
+            "alias": "KLSTPN"
+          },
+          {
+            "show": true,
+            "name": "SRS_ID",
+            "alias": "SRS_ID"
+          },
+          {
+            "show": true,
+            "name": "LCODE",
+            "alias": "LCODE"
+          },
+          {
+            "show": true,
+            "name": "METADATA",
+            "alias": "METADATA"
+          },
+          {
+            "show": true,
+            "name": "FTYPE",
+            "alias": "FTYPE"
+          },
+          {
+            "show": true,
+            "name": "LAT",
+            "alias": "LAT"
+          },
+          {
+            "show": true,
+            "name": "LON",
+            "alias": "LON"
+          },
+          {
+            "show": true,
+            "name": "KOORDY",
+            "alias": "KOORDY"
+          },
+          {
+            "show": true,
+            "name": "KOORDX",
+            "alias": "KOORDX"
+          },
+          {
+            "show": true,
+            "name": "KOORDINAT1",
+            "alias": "KOORDINAT1"
+          },
+          {
+            "show": true,
+            "name": "KORDINTAT2",
+            "alias": "KORDINTAT2"
+          },
+          {
+            "show": true,
+            "name": "LUAS",
+            "alias": "LUAS"
+          },
+          {
+            "show": true,
+            "name": "Elevasi",
+            "alias": "Elevasi"
+          },
+          {
+            "show": true,
+            "name": "NAMLOK",
+            "alias": "NAMLOK"
+          },
+          {
+            "show": true,
+            "name": "NAMSPE",
+            "alias": "NAMSPE"
+          },
+          {
+            "show": true,
+            "name": "NAMMAP",
+            "alias": "NAMMAP"
+          },
+          {
+            "show": true,
+            "name": "NAMGAZ",
+            "alias": "NAMGAZ"
+          },
+          {
+            "show": true,
+            "name": "SJHNAM",
+            "alias": "SJHNAM"
+          },
+          {
+            "show": true,
+            "name": "ARTINAM",
+            "alias": "ARTINAM"
+          },
+          {
+            "show": true,
+            "name": "ASLBHS",
+            "alias": "ASLBHS"
+          },
+          {
+            "show": true,
+            "name": "WADMKD",
+            "alias": "WADMKD"
+          },
+          {
+            "show": true,
+            "name": "WIADKD",
+            "alias": "WIADKD"
+          },
+          {
+            "show": true,
+            "name": "WADMKC",
+            "alias": "WADMKC"
+          },
+          {
+            "show": true,
+            "name": "WIADKC",
+            "alias": "WIADKC"
+          },
+          {
+            "show": true,
+            "name": "WADMKK",
+            "alias": "WADMKK"
+          },
+          {
+            "show": true,
+            "name": "WIADKK",
+            "alias": "WIADKK"
+          },
+          {
+            "show": true,
+            "name": "WADMPR",
+            "alias": "WADMPR"
+          },
+          {
+            "show": true,
+            "name": "WIADPR",
+            "alias": "WIADPR"
+          },
+          {
+            "show": true,
+            "name": "TIPADM",
+            "alias": "TIPADM"
+          },
+          {
+            "show": true,
+            "name": "STATUS",
+            "alias": "STATUS"
+          },
+          {
+            "show": true,
+            "name": "Sumber",
+            "alias": "Sumber"
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID_1",
+      "isDescending": false
+    },
+    {
+      "name": "Ibukota Kabupaten",
+      "id": "721a173f31db4f2fb471f20219332741",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/1",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "FID_1",
+            "alias": "FID_1",
+            "show": true
+          },
+          {
+            "name": "FCODE",
+            "alias": "FCODE",
+            "show": true
+          },
+          {
+            "name": "NAMOBJ",
+            "alias": "NAMOBJ",
+            "show": true
+          },
+          {
+            "name": "ALIAS",
+            "alias": "ALIAS",
+            "show": true
+          },
+          {
+            "name": "LOKTPN",
+            "alias": "LOKTPN",
+            "show": true
+          },
+          {
+            "name": "REMARK",
+            "alias": "REMARK",
+            "show": true
+          },
+          {
+            "name": "KLSTPN",
+            "alias": "KLSTPN",
+            "show": true
+          },
+          {
+            "name": "SRS_ID",
+            "alias": "SRS_ID",
+            "show": true
+          },
+          {
+            "name": "LCODE",
+            "alias": "LCODE",
+            "show": true
+          },
+          {
+            "name": "METADATA",
+            "alias": "METADATA",
+            "show": true
+          },
+          {
+            "name": "FTYPE",
+            "alias": "FTYPE",
+            "show": true
+          },
+          {
+            "name": "LAT",
+            "alias": "LAT",
+            "show": true
+          },
+          {
+            "name": "LON",
+            "alias": "LON",
+            "show": true
+          },
+          {
+            "name": "KOORDY",
+            "alias": "KOORDY",
+            "show": true
+          },
+          {
+            "name": "KOORDX",
+            "alias": "KOORDX",
+            "show": true
+          },
+          {
+            "name": "KOORDINAT1",
+            "alias": "KOORDINAT1",
+            "show": true
+          },
+          {
+            "name": "KORDINTAT2",
+            "alias": "KORDINTAT2",
+            "show": true
+          },
+          {
+            "name": "LUAS",
+            "alias": "LUAS",
+            "show": true
+          },
+          {
+            "name": "Elevasi",
+            "alias": "Elevasi",
+            "show": true
+          },
+          {
+            "name": "NAMLOK",
+            "alias": "NAMLOK",
+            "show": true
+          },
+          {
+            "name": "NAMSPE",
+            "alias": "NAMSPE",
+            "show": true
+          },
+          {
+            "name": "NAMMAP",
+            "alias": "NAMMAP",
+            "show": true
+          },
+          {
+            "name": "NAMGAZ",
+            "alias": "NAMGAZ",
+            "show": true
+          },
+          {
+            "name": "SJHNAM",
+            "alias": "SJHNAM",
+            "show": true
+          },
+          {
+            "name": "ARTINAM",
+            "alias": "ARTINAM",
+            "show": true
+          },
+          {
+            "name": "ASLBHS",
+            "alias": "ASLBHS",
+            "show": true
+          },
+          {
+            "name": "WADMKD",
+            "alias": "WADMKD",
+            "show": true
+          },
+          {
+            "name": "WIADKD",
+            "alias": "WIADKD",
+            "show": true
+          },
+          {
+            "name": "WADMKC",
+            "alias": "WADMKC",
+            "show": true
+          },
+          {
+            "name": "WIADKC",
+            "alias": "WIADKC",
+            "show": true
+          },
+          {
+            "name": "WADMKK",
+            "alias": "WADMKK",
+            "show": true
+          },
+          {
+            "name": "WIADKK",
+            "alias": "WIADKK",
+            "show": true
+          },
+          {
+            "name": "WADMPR",
+            "alias": "WADMPR",
+            "show": true
+          },
+          {
+            "name": "WIADPR",
+            "alias": "WIADPR",
+            "show": true
+          },
+          {
+            "name": "TIPADM",
+            "alias": "TIPADM",
+            "show": true
+          },
+          {
+            "name": "STATUS",
+            "alias": "STATUS",
+            "show": true
+          },
+          {
+            "name": "Sumber",
+            "alias": "Sumber",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "Batas Provinsi",
+      "id": "7254d2d45e4d4e628261f2b7fcdfb4fe",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/2",
+        "fields": [
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID_1",
+            "show": true
+          },
+          {
+            "name": "LEFT_FID",
+            "alias": "LEFT_FID",
+            "show": true
+          },
+          {
+            "name": "RIGHT_FID",
+            "alias": "RIGHT_FID",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "Batas Kabupaten",
+      "id": "f04441ac51264b588fedf047518ca2b7",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/3",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "fid_1",
+            "alias": "fid_1",
+            "show": true
+          },
+          {
+            "name": "objectid",
+            "alias": "objectid",
+            "show": true
+          },
+          {
+            "name": "left_fid",
+            "alias": "left_fid",
+            "show": true
+          },
+          {
+            "name": "right_fid",
+            "alias": "right_fid",
+            "show": true
+          },
+          {
+            "name": "shape_leng",
+            "alias": "shape_leng",
+            "show": true
+          },
+          {
+            "name": "SHAPE__Len",
+            "alias": "SHAPE__Len",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "Garis Pantai",
+      "id": "949a415c19fe4444a637aab800aa5b6f",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/4",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "FID_1",
+            "alias": "FID_1",
+            "show": true
+          },
+          {
+            "name": "BTS_PAN_ID",
+            "alias": "BTS_PAN_ID",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "Jalan",
+      "id": "c489d332285b42f597163e3c6a5970a6",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/5",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "OBJECTID_1",
+            "alias": "OBJECTID_1",
+            "show": true
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true
+          },
+          {
+            "name": "NAMOBJ",
+            "alias": "NAMOBJ",
+            "show": true
+          },
+          {
+            "name": "FCODE",
+            "alias": "FCODE",
+            "show": true
+          },
+          {
+            "name": "REMARK",
+            "alias": "REMARK",
+            "show": true
+          },
+          {
+            "name": "METADATA",
+            "alias": "METADATA",
+            "show": true
+          },
+          {
+            "name": "SRS_ID",
+            "alias": "SRS_ID",
+            "show": true
+          },
+          {
+            "name": "ARHRJL",
+            "alias": "ARHRJL",
+            "show": true
+          },
+          {
+            "name": "AUTRJL",
+            "alias": "AUTRJL",
+            "show": true
+          },
+          {
+            "name": "FGSRJL",
+            "alias": "FGSRJL",
+            "show": true
+          },
+          {
+            "name": "JARRJL",
+            "alias": "JARRJL",
+            "show": true
+          },
+          {
+            "name": "JPARJL",
+            "alias": "JPARJL",
+            "show": true
+          },
+          {
+            "name": "KLLRJL",
+            "alias": "KLLRJL",
+            "show": true
+          },
+          {
+            "name": "KONRJL",
+            "alias": "KONRJL",
+            "show": true
+          },
+          {
+            "name": "KPMSTR",
+            "alias": "KPMSTR",
+            "show": true
+          },
+          {
+            "name": "LKONOF",
+            "alias": "LKONOF",
+            "show": true
+          },
+          {
+            "name": "LKSBSP",
+            "alias": "LKSBSP",
+            "show": true
+          },
+          {
+            "name": "LKSRTA",
+            "alias": "LKSRTA",
+            "show": true
+          },
+          {
+            "name": "LLHRRT",
+            "alias": "LLHRRT",
+            "show": true
+          },
+          {
+            "name": "LOCRJL",
+            "alias": "LOCRJL",
+            "show": true
+          },
+          {
+            "name": "LBRBHJ",
+            "alias": "LBRBHJ",
+            "show": true
+          },
+          {
+            "name": "LBRJLN",
+            "alias": "LBRJLN",
+            "show": true
+          },
+          {
+            "name": "MATRJL",
+            "alias": "MATRJL",
+            "show": true
+          },
+          {
+            "name": "MEDRJL",
+            "alias": "MEDRJL",
+            "show": true
+          },
+          {
+            "name": "SPCRJL",
+            "alias": "SPCRJL",
+            "show": true
+          },
+          {
+            "name": "STARJL",
+            "alias": "STARJL",
+            "show": true
+          },
+          {
+            "name": "TOLRJL",
+            "alias": "TOLRJL",
+            "show": true
+          },
+          {
+            "name": "UTKRJL",
+            "alias": "UTKRJL",
+            "show": true
+          },
+          {
+            "name": "VLCPRT",
+            "alias": "VLCPRT",
+            "show": true
+          },
+          {
+            "name": "WLYRJL",
+            "alias": "WLYRJL",
+            "show": true
+          },
+          {
+            "name": "TGL_SK",
+            "alias": "TGL_SK",
+            "show": true
+          },
+          {
+            "name": "JLNLYG",
+            "alias": "JLNLYG",
+            "show": true
+          },
+          {
+            "name": "KLSRJL",
+            "alias": "KLSRJL",
+            "show": true
+          },
+          {
+            "name": "SHAPE_Leng",
+            "alias": "SHAPE_Leng",
+            "show": true
+          },
+          {
+            "name": "FID_",
+            "alias": "FID_",
+            "show": true
+          },
+          {
+            "name": "REMARK_1",
+            "alias": "REMARK_1",
+            "show": true
+          },
+          {
+            "name": "LCODE",
+            "alias": "LCODE",
+            "show": true
+          },
+          {
+            "name": "No_Ruas",
+            "alias": "No_Ruas",
+            "show": true
+          },
+          {
+            "name": "Nama_Ruas",
+            "alias": "Nama_Ruas",
+            "show": true
+          },
+          {
+            "name": "Panjang_KM",
+            "alias": "Panjang_KM",
+            "show": true
+          },
+          {
+            "name": "Status",
+            "alias": "Status",
+            "show": true
+          },
+          {
+            "name": "Fungsi",
+            "alias": "Fungsi",
+            "show": true
+          },
+          {
+            "name": "Kab_Kota",
+            "alias": "Kab_Kota",
+            "show": true
+          },
+          {
+            "name": "Sumber",
+            "alias": "Sumber",
+            "show": true
+          },
+          {
+            "name": "PJNG_SHP",
+            "alias": "PJNG_SHP",
+            "show": true
+          },
+          {
+            "name": "PMLHRN",
+            "alias": "PMLHRN",
+            "show": true
+          },
+          {
+            "name": "created_us",
+            "alias": "created_us",
+            "show": true
+          },
+          {
+            "name": "created_da",
+            "alias": "created_da",
+            "show": true
+          },
+          {
+            "name": "last_edite",
+            "alias": "last_edite",
+            "show": true
+          },
+          {
+            "name": "last_edi_1",
+            "alias": "last_edi_1",
+            "show": true
+          },
+          {
+            "name": "Shape_Le_1",
+            "alias": "Shape_Le_1",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "NAMOBJ",
+      "isDescending": false
+    },
+    {
+      "name": "Sungai",
+      "id": "0d8e5b3107364c9abed242f6d58f4872",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/6",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "FID_1",
+            "alias": "FID_1",
+            "show": true
+          },
+          {
+            "name": "NAMA",
+            "alias": "NAMA",
+            "show": true
+          },
+          {
+            "name": "ORDE",
+            "alias": "ORDE",
+            "show": true
+          },
+          {
+            "name": "KODE_UNSUR",
+            "alias": "KODE_UNSUR",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "NAMA",
+      "isDescending": false
+    },
+    {
+      "name": "Danau",
+      "id": "1e9ba28544654d00b4ce8b89b5ce35c4",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/7",
+        "fields": [
+          {
+            "name": "OBJECTID_1",
+            "alias": "OBJECTID_1",
+            "show": true
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true
+          },
+          {
+            "name": "NAMOBJ",
+            "alias": "NAMOBJ",
+            "show": true
+          },
+          {
+            "name": "OTODAN",
+            "alias": "OTODAN",
+            "show": true
+          },
+          {
+            "name": "FCODE",
+            "alias": "FCODE",
+            "show": true
+          },
+          {
+            "name": "REMARK",
+            "alias": "REMARK",
+            "show": true
+          },
+          {
+            "name": "KODLCO",
+            "alias": "KODLCO",
+            "show": true
+          },
+          {
+            "name": "SRS_ID",
+            "alias": "SRS_ID",
+            "show": true
+          },
+          {
+            "name": "SHAPE_Leng",
+            "alias": "SHAPE_Leng",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "OBJECTID_1",
+      "isDescending": false
+    },
+    {
+      "name": "Fungsi Kawasan Hutan",
+      "id": "e67958af9ed34a09becd3ffbea93f2c8",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/8",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "objectid",
+            "alias": "objectid",
+            "show": true
+          },
+          {
+            "name": "fngkws",
+            "alias": "fngkws",
+            "show": true
+          },
+          {
+            "name": "metadata",
+            "alias": "metadata",
+            "show": true
+          },
+          {
+            "name": "nama",
+            "alias": "Label",
+            "show": true
+          },
+          {
+            "name": "fcode",
+            "alias": "fcode",
+            "show": true
+          },
+          {
+            "name": "srs_id",
+            "alias": "srs_id",
+            "show": true
+          },
+          {
+            "name": "remark",
+            "alias": "remark",
+            "show": true
+          },
+          {
+            "name": "fungsikws",
+            "alias": "fungsikws",
+            "show": true
+          },
+          {
+            "name": "noskkws",
+            "alias": "noskkws",
+            "show": true
+          },
+          {
+            "name": "tglskkws",
+            "alias": "tglskkws",
+            "show": true
+          },
+          {
+            "name": "lskkws",
+            "alias": "lskkws",
+            "show": true
+          },
+          {
+            "name": "sumber_fng",
+            "alias": "sumber_fng",
+            "show": true
+          },
+          {
+            "name": "luas_ha",
+            "alias": "luas_ha",
+            "show": true
+          },
+          {
+            "name": "creationda",
+            "alias": "creationda",
+            "show": true
+          },
+          {
+            "name": "creator",
+            "alias": "creator",
+            "show": true
+          },
+          {
+            "name": "editdate",
+            "alias": "editdate",
+            "show": true
+          },
+          {
+            "name": "editor",
+            "alias": "editor",
+            "show": true
+          },
+          {
+            "name": "SHAPE__Len",
+            "alias": "SHAPE__Len",
+            "show": true
+          },
+          {
+            "name": "SHAPE__Are",
+            "alias": "SHAPE__Are",
+            "show": true
+          },
+          {
+            "name": "globalid",
+            "alias": "globalid",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "fngkws",
+      "isDescending": false
+    },
+    {
+      "name": "Provinsi Lampung",
+      "id": "8de4439cea1a4e4c81a22f833b90701b",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Kawasan_Hutan_Provinsi_Lampungg_WFL1/FeatureServer/9",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true
+          },
+          {
+            "name": "NAMOBJ",
+            "alias": "NAMOBJ",
+            "show": true
+          },
+          {
+            "name": "FCODE",
+            "alias": "FCODE",
+            "show": true
+          },
+          {
+            "name": "REMARK",
+            "alias": "REMARK",
+            "show": true
+          },
+          {
+            "name": "METADATA",
+            "alias": "METADATA",
+            "show": true
+          },
+          {
+            "name": "SRS_ID",
+            "alias": "SRS_ID",
+            "show": true
+          },
+          {
+            "name": "KDBBPS",
+            "alias": "KDBBPS",
+            "show": true
+          },
+          {
+            "name": "KDCBPS",
+            "alias": "KDCBPS",
+            "show": true
+          },
+          {
+            "name": "KDCPUM",
+            "alias": "KDCPUM",
+            "show": true
+          },
+          {
+            "name": "KDEBPS",
+            "alias": "KDEBPS",
+            "show": true
+          },
+          {
+            "name": "KDEPUM",
+            "alias": "KDEPUM",
+            "show": true
+          },
+          {
+            "name": "KDPBPS",
+            "alias": "KDPBPS",
+            "show": true
+          },
+          {
+            "name": "KDPKAB",
+            "alias": "KDPKAB",
+            "show": true
+          },
+          {
+            "name": "KDPPUM",
+            "alias": "KDPPUM",
+            "show": true
+          },
+          {
+            "name": "LUASWH",
+            "alias": "LUASWH",
+            "show": true
+          },
+          {
+            "name": "TIPADM",
+            "alias": "TIPADM",
+            "show": true
+          },
+          {
+            "name": "WADMKC",
+            "alias": "WADMKC",
+            "show": true
+          },
+          {
+            "name": "WADMKD",
+            "alias": "WADMKD",
+            "show": true
+          },
+          {
+            "name": "WADMKK",
+            "alias": "WADMKK",
+            "show": true
+          },
+          {
+            "name": "WADMPR",
+            "alias": "WADMPR",
+            "show": true
+          },
+          {
+            "name": "WIADKC",
+            "alias": "WIADKC",
+            "show": true
+          },
+          {
+            "name": "WIADKK",
+            "alias": "WIADKK",
+            "show": true
+          },
+          {
+            "name": "WIADPR",
+            "alias": "WIADPR",
+            "show": true
+          },
+          {
+            "name": "WIADKD",
+            "alias": "WIADKD",
+            "show": true
+          },
+          {
+            "name": "SHAPE_Leng",
+            "alias": "SHAPE_Leng",
+            "show": true
+          },
+          {
+            "name": "SHAPE_Le_1",
+            "alias": "SHAPE_Le_1",
+            "show": true
+          },
+          {
+            "name": "LUAS1",
+            "alias": "LUAS1",
+            "show": true
+          },
+          {
+            "name": "LUAS2",
+            "alias": "LUAS2",
+            "show": true
+          },
+          {
+            "name": "Klasifikas",
+            "alias": "Klasifikas",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "NAMOBJ",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false,
+  "initiallyExpand": true,
+  "filterByMapExtent": false,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
